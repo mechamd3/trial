@@ -1,0 +1,70 @@
+.header{
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 500px;
+    border-bottom: solid 1px black;
+    background-color: lightyellow;
+    
+}
+
+.backgroundimg{
+    background-image: url('https://res.cloudinary.com/dlwpmd1ir/image/upload/v1713831359/IS501/nikolay-mitev-Nj7zkf_cYtI-unsplash_akxfrt.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat:;
+    max-height: 500px;
+    max-width: 100%
+}
+
+.titletext{
+    font-weight: bold;
+    color: ivory;
+    font-size: 128;
+    text-align: center;
+    margin-top: 350px;
+}
+
+.common{
+    position: absolute;
+}
+
+.leftmenu{
+    top: 510px;
+    left: 5 px;
+    width: 100px;
+    background-color: lightyellow;
+}
+
+.rightmenu{
+    top: 510px;
+    right: 5px;
+    width: 340px;
+    background-color: lightyellow;
+    
+}
+
+.mainsection{
+    top: 510px;
+    left: 110px;
+    right: 350px;
+    background-color: lightyellow;
+}
+
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+a:hover{
+    font-weight: bold;
+    color: darkblue
+}
+
+.subheader{
+    top: 5px;
+    left: 5px;
+}
+
+.listheaders{
+    font-weight: bold
+}
